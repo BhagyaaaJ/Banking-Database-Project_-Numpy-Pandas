@@ -1,4 +1,4 @@
-This is a project based on a Banking Database that involves modifying the given data using Numpy & Pandas.
+This project is a part of certification course by Coursera on Numpy & Pandas and is based on a Banking Database that involves modifying the given data using Numpy & Pandas.
 
 The following tasks have been covered in this project in the same sequence :-
 
